@@ -25,5 +25,4 @@ nc -l -p >> nc $Ip $RoomNo
 
 
 
-# Listening for connections of others in chat
 
